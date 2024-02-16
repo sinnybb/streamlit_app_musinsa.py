@@ -3,5 +3,3 @@ numpy
 openpyxl
 torch
 transformers
-kobert_transformers
-kobert_tokenizer
