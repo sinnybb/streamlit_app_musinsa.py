@@ -3,3 +3,4 @@ numpy
 openpyxl
 torch
 transformers
+kobert_transformers
