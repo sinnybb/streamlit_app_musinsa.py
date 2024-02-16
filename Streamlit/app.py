@@ -4,9 +4,6 @@ import openpyxl
 
 import torch
 from transformers import  BertForSequenceClassification, BertConfig, AutoTokenizer
-import kobert_transformers 
-from kobert_tokenizer import KoBERTTokenizer
-import sentencepiece as spm
 import torch.nn.functional as F
 
 # 모델 로드 함수 정의
