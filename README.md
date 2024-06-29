@@ -1,2 +1,2 @@
-# streamlit_app_musinsa.py
-무신사 스탠다드 리뷰 기반 데이터 수집 &amp; 모델링 &amp; streamlit 배포 연습
+### 무신사스탠다드 vs 타 브랜드의 감정 분석을 위한 시각화
+무신사 스탠다드, 이 외 브랜드 리뷰 기반 감정분석 시각화 by streamlit
